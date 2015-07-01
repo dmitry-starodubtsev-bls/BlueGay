@@ -1,0 +1,19 @@
+syntax: glob
+.DS_Store
+.Trashes
+xcuserdata
+
+*.orig
+*.tmp
+*.mode1 *.mode1v3 *.mode2 *.mode2v3 
+*.perspective
+*.swp
+*.lock
+*~.nib
+*.o
+*.pbxuser
+(^|/)build($|/)
+*.perspectivev3
+*.mpkg
+*.framework
+*.app
